@@ -12,4 +12,12 @@ SECOND HALF
 
 The set up can be found in project.pdf
 
-The project make use of I2C_Anything library found at https://github.com/nickgammon/I2C_Anything. 
+The project make use of I2C_Anything library found at https://github.com/nickgammon/I2C_Anything.
+
+What works:
+- Sound detect (somewhat)
+- movement behavoir
+- PID feedback
+
+What doesn't work:
+- High pitch detection (Lack of knowledge on how to 'properly' ue MAX4466. Didn't have parts for original plan. )
