@@ -1,0 +1,189 @@
+sample: 0.00
+Volts is: 0.04
+
+sample: 0.00
+Volts is: 0.05
+
+sample: 0.00
+Volts is: 0.05
+
+MUSIC STARTS
+
+sample: 1.80
+Volts is: 0.07
+
+sample: 0.00
+Volts is: 0.04
+
+sample: 0.00
+Volts is: 0.03
+
+sample: 0.00
+Volts is: 0.21
+
+sample: 1.00
+Volts is: 0.14
+
+sample: 1.20
+Volts is: 0.08
+
+sample: 3.00
+Volts is: 0.13
+
+sample: 0.00
+Volts is: 0.12
+
+sample: 2.00
+Volts is: 0.14
+
+sample: 0.00
+Volts is: 0.15
+
+sample: 1.20
+Volts is: 0.06
+
+sample: 1.80
+Volts is: 0.14
+
+sample: 1.20
+Volts is: 0.21
+
+sample: 1.00
+Volts is: 0.13
+
+sample: 2.00
+Volts is: 0.08
+
+sample: 1.00
+Volts is: 0.08
+
+sample: 4.60
+Volts is: 0.17
+
+sample: 3.80
+Volts is: 0.11
+
+sample: 0.00
+Volts is: 0.08
+
+sample: 0.00
+Volts is: 0.07
+
+sample: 0.00
+Volts is: 0.15
+
+sample: 2.20
+Volts is: 0.12
+
+sample: 1.00
+Volts is: 0.08
+
+sample: 0.60
+Volts is: 0.12
+
+sample: 0.00
+Volts is: 0.09
+
+sample: 1.80
+Volts is: 0.05
+
+sample: 1.80
+Volts is: 0.17
+
+sample: 0.80
+Volts is: 0.03
+
+sample: 0.00
+Volts is: 0.18
+
+sample: 0.00
+Volts is: 0.09
+
+sample: 0.00
+Volts is: 0.21
+
+sample: 4.00
+Volts is: 0.15
+
+sample: 0.60
+Volts is: 0.13
+
+sample: 0.20
+Volts is: 0.13
+
+sample: 0.40
+Volts is: 0.05
+
+sample: 0.80
+Volts is: 0.09
+
+sample: 1.20
+Volts is: 0.10
+
+sample: 0.80
+Volts is: 0.12
+
+sample: 1.40
+Volts is: 0.17
+
+sample: 0.20
+Volts is: 0.15
+
+sample: 2.00
+Volts is: 0.23
+
+sample: 0.00
+Volts is: 0.06
+
+sample: 0.00
+Volts is: 0.03
+
+sample: 0.00
+Volts is: 0.09
+
+sample: 1.00
+Volts is: 0.10
+
+sample: 2.60
+Volts is: 0.13
+
+sample: 2.60
+Volts is: 0.10
+
+sample: 1.20
+Volts is: 0.11
+
+sample: 1.20
+Volts is: 0.07
+
+sample: 3.00
+Volts is: 0.10
+
+sample: 3.00
+Volts is: 0.15
+
+sample: 1.20
+Volts is: 0.04
+
+MUSIC ENDS
+
+sample: 0.00
+Volts is: 0.08
+
+sample: 0.00
+Volts is: 0.04
+
+sample: 0.00
+Volts is: 0.04
+
+sample: 0.00
+Volts is: 0.03
+
+sample: 0.00
+Volts is: 0.04
+
+sample: 0.00
+Volts is: 0.03
+
+sample: 0.20
+Volts is: 0.03

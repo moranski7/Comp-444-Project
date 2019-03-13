@@ -1,0 +1,176 @@
+sample: 0.20
+Volts is: 0.01
+
+sample: 0.00
+Volts is: 0.12
+
+sample: 0.00
+Volts is: 0.11
+
+sample: 0.00
+Volts is: 0.06
+
+sample: 0.20
+Volts is: 0.17
+
+sample: 0.20
+Volts is: 0.02
+
+sample: 0.00
+Volts is: 0.10
+
+sample: 0.00
+Volts is: 0.16
+
+sample: 0.20
+Volts is: 0.05
+
+sample: 0.00
+Volts is: 0.14
+
+sample: 0.00
+Volts is: 0.04
+
+sample: 0.20
+Volts is: 0.14
+
+sample: 0.20
+Volts is: 0.03
+
+sample: 0.20
+Volts is: 0.06
+
+sample: 0.20
+Volts is: 0.17
+
+sample: 0.00
+Volts is: 0.19
+
+sample: 0.00
+Volts is: 0.06
+
+sample: 0.00
+Volts is: 0.03
+
+sample: 0.20
+Volts is: 0.05
+
+sample: 0.80
+Volts is: 0.11
+
+sample: 0.00
+Volts is: 0.32
+
+sample: 1.60
+Volts is: 0.21
+
+sample: 0.00
+Volts is: 0.34
+
+sample: 6.40
+Volts is: 0.10
+
+sample: 0.00
+Volts is: 0.35
+
+sample: 2.00
+Volts is: 0.06
+
+sample: 3.80
+Volts is: 0.27
+
+sample: 1.20
+Volts is: 0.29
+
+sample: 2.60
+Volts is: 0.22
+
+sample: 0.00
+Volts is: 0.09
+
+sample: 5.60
+Volts is: 0.14
+
+sample: 0.40
+Volts is: 0.27
+
+sample: 3.00
+Volts is: 0.19
+
+sample: 5.00
+Volts is: 0.16
+
+sample: 1.40
+Volts is: 0.37
+
+sample: 3.40
+Volts is: 0.20
+
+sample: 1.40
+Volts is: 0.21
+
+sample: 0.20
+Volts is: 0.22
+
+sample: 1.60
+Volts is: 0.14
+
+sample: 3.00
+Volts is: 0.12
+
+sample: 5.00
+Volts is: 0.34
+
+sample: 6.60
+Volts is: 0.25
+
+sample: 3.80
+Volts is: 0.16
+
+sample: 6.40
+Volts is: 0.11
+
+sample: 0.00
+Volts is: 0.19
+
+sample: 0.60
+Volts is: 0.16
+
+sample: 7.80
+Volts is: 0.10
+
+sample: 0.60
+Volts is: 0.29
+
+sample: 4.00
+Volts is: 0.21
+
+sample: 9.80
+Volts is: 0.21
+
+sample: 9.80
+Volts is: 0.21
+
+sample: 0.40
+Volts is: 0.13
+
+sample: 15.60
+Volts is: 0.23
+
+sample: 0.20
+Volts is: 0.10
+
+sample: 6.20
+Volts is: 0.22
+
+sample: 0.60
+Volts is: 0.06
+
+sample: 0.20
+Volts is: 0.06
+
+sample: 0.40
+Volts is: 0.10
+
+sample: 0.40
+Volts is: 0.22

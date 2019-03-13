@@ -1,0 +1,452 @@
+is: 343Next set of samples
+Sample is: 334
+Sample is: 332
+Sample is: 336
+Sample is: 335
+Sample is: 342
+Sample is: 338
+Volts is: 0.05
+
+Next set of samples
+Sample is: 336
+Sample is: 339
+Sample is: 339
+Sample is: 341
+Sample is: 339
+Sample is: 340
+Volts is: 0.01
+
+Next set of samples
+Sample is: 339
+Sample is: 338
+Sample is: 333
+Sample is: 337
+Sample is: 339
+Sample is: 337
+Volts is: 0.03
+
+Next set of samples
+Sample is: 343
+Sample is: 338
+Sample is: 336
+Sample is: 339
+Sample is: 347
+Sample is: 339
+Volts is: 0.05
+
+Next set of samples
+Sample is: 342
+Sample is: 337
+Sample is: 341
+Sample is: 342
+Sample is: 340
+Sample is: 340
+Volts is: 0.02
+
+Next set of samples
+Sample is: 343
+Sample is: 341
+Sample is: 336
+Sample is: 339
+Sample is: 338
+Sample is: 345
+Volts is: 0.04
+
+Next set of samples
+Sample is: 341
+Sample is: 339
+Sample is: 336
+Sample is: 343
+Sample is: 341
+Sample is: 339
+Volts is: 0.03
+
+Next set of samples
+Sample is: 339
+Sample is: 340
+Sample is: 343
+Sample is: 342
+Sample is: 339
+Sample is: 339
+Volts is: 0.02
+
+Next set of samples
+Sample is: 342
+Sample is: 340
+Sample is: 340
+Sample is: 339
+Sample is: 339
+Sample is: 339
+Volts is: 0.01
+
+Next set of samples
+Sample is: 340
+Sample is: 340
+Sample is: 340
+Sample is: 332
+Sample is: 343
+Sample is: 343
+Volts is: 0.05
+
+Next set of samples
+Sample is: 338
+Sample is: 344
+Sample is: 344
+Sample is: 344
+Sample is: 346
+Sample is: 340
+Volts is: 0.03
+
+Next set of samples
+Sample is: 340
+Sample is: 342
+Sample is: 344
+Sample is: 340
+Sample is: 337
+Sample is: 345
+Volts is: 0.04
+
+Next set of samples
+Sample is: 342
+Sample is: 342
+Sample is: 338
+Sample is: 335
+Sample is: 332
+Sample is: 341
+Volts is: 0.05
+
+Next set of samples
+Sample is: 341
+Sample is: 340
+Sample is: 339
+Sample is: 337
+Sample is: 342
+Sample is: 335
+Volts is: 0.03
+
+Next set of samples
+Sample is: 345
+Sample is: 344
+Sample is: 340
+Sample is: 338
+Sample is: 347
+Sample is: 339
+Volts is: 0.04
+
+Next set of samples
+Sample is: 346
+Sample is: 343
+Sample is: 337
+Sample is: 336
+Sample is: 338
+Sample is: 341
+Volts is: 0.05
+
+Next set of samples
+Sample is: 333
+Sample is: 337
+Sample is: 341
+Sample is: 339
+Sample is: 336
+Sample is: 338
+Volts is: 0.02
+
+Next set of samples
+Sample is: 334
+Sample is: 336
+Sample is: 337
+Sample is: 337
+Sample is: 337
+Sample is: 341
+Volts is: 0.02
+
+Next set of samples
+Sample is: 370
+Sample is: 323
+Sample is: 298
+Sample is: 293
+Sample is: 296
+Sample is: 298
+Volts is: 0.38
+
+Next set of samples
+Sample is: 376
+Sample is: 369
+Sample is: 317
+Sample is: 317
+Sample is: 314
+Sample is: 327
+Volts is: 0.30
+
+Next set of samples
+Sample is: 337
+Sample is: 383
+Sample is: 359
+Sample is: 354
+Sample is: 369
+Sample is: 364
+Volts is: 0.14
+
+Next set of samples
+Sample is: 300
+Sample is: 350
+Sample is: 376
+Sample is: 382
+Sample is: 388
+Sample is: 382
+Volts is: 0.03
+
+Next set of samples
+Sample is: 308
+Sample is: 312
+Sample is: 365
+Sample is: 360
+Sample is: 362
+Sample is: 364
+Volts is: 0.02
+
+Next set of samples
+Sample is: 347
+Sample is: 306
+Sample is: 319
+Sample is: 316
+Sample is: 311
+Sample is: 310
+Volts is: 0.20
+
+Next set of samples
+Sample is: 379
+Sample is: 336
+Sample is: 297
+Sample is: 301
+Sample is: 299
+Sample is: 298
+Volts is: 0.40
+
+Next set of samples
+Sample is: 372
+Sample is: 380
+Sample is: 320
+Sample is: 323
+Sample is: 329
+Sample is: 331
+Volts is: 0.29
+
+Next set of samples
+Sample is: 329
+Sample is: 380
+Sample is: 366
+Sample is: 367
+Sample is: 367
+Sample is: 369
+Volts is: 0.07
+
+Next set of samples
+Sample is: 295
+Sample is: 340
+Sample is: 384
+Sample is: 392
+Sample is: 383
+Sample is: 387
+Volts is: 0.04
+
+Next set of samples
+Sample is: 308
+Sample is: 303
+Sample is: 350
+Sample is: 359
+Sample is: 349
+Sample is: 354
+Volts is: 0.27
+
+Next set of samples
+Sample is: 352
+Sample is: 305
+Sample is: 306
+Sample is: 305
+Sample is: 307
+Sample is: 309
+Volts is: 0.23
+
+Next set of samples
+Sample is: 380
+Sample is: 349
+Sample is: 300
+Sample is: 302
+Sample is: 305
+Sample is: 307
+Volts is: 0.39
+
+Next set of samples
+Sample is: 372
+Sample is: 378
+Sample is: 337
+Sample is: 326
+Sample is: 334
+Sample is: 339
+Volts is: 0.25
+
+Next set of samples
+Sample is: 318
+Sample is: 368
+Sample is: 375
+Sample is: 373
+Sample is: 375
+Sample is: 376
+Volts is: 0.01
+
+Next set of samples
+Sample is: 302
+Sample is: 336
+Sample is: 381
+Sample is: 385
+Sample is: 374
+Sample is: 377
+Volts is: 0.05
+
+Next set of samples
+Sample is: 320
+Sample is: 301
+Sample is: 347
+Sample is: 340
+Sample is: 348
+Sample is: 343
+Volts is: 0.23
+
+Next set of samples
+Sample is: 365
+Sample is: 314
+Sample is: 310
+Sample is: 303
+Sample is: 302
+Sample is: 305
+Volts is: 0.31
+
+Next set of samples
+Sample is: 374
+Sample is: 352
+Sample is: 308
+Sample is: 311
+Sample is: 306
+Sample is: 316
+Volts is: 0.33
+
+Next set of samples
+Sample is: 357
+Sample is: 379
+Sample is: 342
+Sample is: 338
+Sample is: 342
+Sample is: 342
+Volts is: 0.20
+
+Next set of samples
+Sample is: 317
+Sample is: 358
+Sample is: 373
+Sample is: 372
+Sample is: 378
+Sample is: 373
+Volts is: 0.03
+
+Next set of samples
+Sample is: 307
+Sample is: 324
+Sample is: 367
+Sample is: 371
+Sample is: 367
+Sample is: 369
+Volts is: 0.02
+
+Next set of samples
+Sample is: 342
+Sample is: 325
+Sample is: 335
+Sample is: 331
+Sample is: 334
+Sample is: 335
+Volts is: 0.08
+
+Next set of samples
+Sample is: 342
+Sample is: 344
+Sample is: 341
+Sample is: 335
+Sample is: 344
+Sample is: 340
+Volts is: 0.04
+
+Next set of samples
+Sample is: 333
+Sample is: 338
+Sample is: 341
+Sample is: 338
+Sample is: 333
+Sample is: 341
+Volts is: 0.04
+
+Next set of samples
+Sample is: 340
+Sample is: 340
+Sample is: 340
+Sample is: 335
+Sample is: 335
+Sample is: 336
+Volts is: 0.02
+
+Next set of samples
+Sample is: 343
+Sample is: 350
+Sample is: 346
+Sample is: 336
+Sample is: 343
+Sample is: 338
+Volts is: 0.07
+
+Next set of samples
+Sample is: 340
+Sample is: 341
+Sample is: 342
+Sample is: 338
+Sample is: 333
+Sample is: 340
+Volts is: 0.04
+
+Next set of samples
+Sample is: 343
+Sample is: 342
+Sample is: 335
+Sample is: 341
+Sample is: 337
+Sample is: 345
+Volts is: 0.05
+
+Next set of samples
+Sample is: 336
+Sample is: 334
+Sample is: 340
+Sample is: 342
+Sample is: 341
+Sample is: 344
+Volts is: 0.05
+
+Next set of samples
+Sample is: 342
+Sample is: 343
+Sample is: 340
+Sample is: 338
+Sample is: 334
+Sample is: 337
+Volts is: 0.04
+
+Next set of samples
+Sample is: 340
+Sample is: 342
+Sample is: 337
+Sample is: 336
+Sample is: 343
+Sample is: 347
+Volts is: 0.05
+
+Next set of samples
+Sample

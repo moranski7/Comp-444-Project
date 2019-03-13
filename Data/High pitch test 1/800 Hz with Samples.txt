@@ -1,0 +1,243 @@
+Next set of samples
+Sample is: 334
+Sample is: 333
+Sample is: 332
+Sample is: 339
+Sample is: 332
+Sample is: 342
+SampleMin: 332SampleMax: 342
+Volts is: 0.05
+
+Next set of samples
+Sample is: 336
+Sample is: 339
+Sample is: 337
+Sample is: 334
+Sample is: 339
+Sample is: 336
+SampleMin: 334SampleMax: 339
+Volts is: 0.02
+
+Next set of samples
+Sample is: 334
+Sample is: 337
+Sample is: 336
+Sample is: 332
+Sample is: 344
+Sample is: 333
+SampleMin: 332SampleMax: 344
+Volts is: 0.06
+
+Started the Tone generator
+
+Next set of samples
+Sample is: 308
+Sample is: 334
+Sample is: 367
+Sample is: 323
+Sample is: 366
+Sample is: 335
+SampleMin: 323SampleMax: 367
+Volts is: 0.21
+
+Next set of samples
+Sample is: 355
+Sample is: 358
+Sample is: 313
+Sample is: 369
+Sample is: 315
+Sample is: 337
+SampleMin: 313SampleMax: 369
+Volts is: 0.27
+
+Next set of samples
+Sample is: 338
+Sample is: 310
+Sample is: 352
+Sample is: 302
+Sample is: 353
+Sample is: 361
+SampleMin: 302SampleMax: 361
+Volts is: 0.29
+
+Next set of samples
+Sample is: 326
+Sample is: 372
+Sample is: 347
+Sample is: 371
+Sample is: 349
+Sample is: 304
+SampleMin: 304SampleMax: 372
+Volts is: 0.33
+
+Next set of samples
+Sample is: 360
+Sample is: 319
+Sample is: 314
+Sample is: 330
+Sample is: 317
+Sample is: 372
+SampleMin: 314SampleMax: 372
+Volts is: 0.28
+
+Next set of samples
+Sample is: 306
+Sample is: 346
+Sample is: 370
+Sample is: 328
+Sample is: 370
+Sample is: 319
+SampleMin: 319SampleMax: 370
+Volts is: 0.25
+
+Next set of samples
+Sample is: 363
+Sample is: 353
+Sample is: 308
+Sample is: 360
+Sample is: 308
+Sample is: 344
+SampleMin: 308SampleMax: 363
+Volts is: 0.27
+
+Next set of samples
+Sample is: 331
+Sample is: 310
+Sample is: 357
+Sample is: 307
+Sample is: 354
+Sample is: 356
+SampleMin: 307SampleMax: 357
+Volts is: 0.24
+
+Next set of samples
+Sample is: 335
+Sample is: 368
+Sample is: 338
+Sample is: 359
+Sample is: 333
+Sample is: 317
+SampleMin: 317SampleMax: 368
+Volts is: 0.25
+
+Next set of samples
+Sample is: 360
+Sample is: 325
+Sample is: 339
+Sample is: 317
+Sample is: 329
+Sample is: 362
+SampleMin: 317SampleMax: 362
+Volts is: 0.22
+
+Next set of samples
+Sample is: 311
+Sample is: 357
+Sample is: 368
+Sample is: 352
+Sample is: 363
+Sample is: 313
+SampleMin: 313SampleMax: 368
+Volts is: 0.27
+
+Next set of samples
+Sample is: 368
+Sample is: 346
+Sample is: 305
+Sample is: 350
+Sample is: 305
+Sample is: 357
+SampleMin: 305SampleMax: 368
+Volts is: 0.31
+
+Next set of samples
+Sample is: 326
+Sample is: 320
+Sample is: 364
+Sample is: 317
+Sample is: 364
+Sample is: 346
+SampleMin: 317SampleMax: 364
+Volts is: 0.23
+
+Next set of samples
+Sample is: 344
+Sample is: 367
+Sample is: 328
+Sample is: 363
+Sample is: 320
+Sample is: 320
+SampleMin: 320SampleMax: 367
+Volts is: 0.23
+
+Next set of samples
+Sample is: 352
+Sample is: 308
+Sample is: 342
+Sample is: 317
+Sample is: 339
+Sample is: 371
+SampleMin: 308SampleMax: 371
+Volts is: 0.31
+
+Next set of samples
+Sample is: 314
+Sample is: 369
+Sample is: 360
+Sample is: 360
+Sample is: 353
+Sample is: 309
+SampleMin: 309SampleMax: 369
+Volts is: 0.29
+
+Next set of samples
+Sample is: 369
+Sample is: 329
+Sample is: 303
+Sample is: 341
+Sample is: 308
+Sample is: 365
+SampleMin: 303SampleMax: 369
+Volts is: 0.32
+
+Next set of samples
+Sample is: 308
+Sample is: 328
+Sample is: 372
+Sample is: 320
+Sample is: 377
+Sample is: 315
+SampleMin: 315SampleMax: 377
+Volts is: 0.30
+
+Next set of samples
+Sample is: 357
+Sample is: 370
+Sample is: 313
+Sample is: 371
+Sample is: 320
+Sample is: 333
+SampleMin: 313SampleMax: 371
+Volts is: 0.28
+
+End of Tone Generator
+
+Next set of samples
+Sample is: 336
+Sample is: 336
+Sample is: 337
+Sample is: 334
+Sample is: 338
+Sample is: 340
+SampleMin: 334SampleMax: 340
+Volts is: 0.03
+
+Next set of samples
+Sample is: 334
+Sample is: 336
+Sample is: 334
+Sample is: 335
+Sample is: 340
+Sample is: 338
+SampleMin: 334SampleMax: 340
+Volts is: 0.03

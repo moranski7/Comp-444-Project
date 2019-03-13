@@ -1,0 +1,170 @@
+Next set of samples
+Sample is: 337
+Sample is: 336
+Sample is: 333
+SampleMin: 333SampleMax: 337
+Volts is: 0.02
+
+Next set of samples
+Sample is: 334
+Sample is: 335
+SampleMin: 334SampleMax: 335
+Volts is: 0.00
+
+Next set of samples
+Sample is: 335
+Sample is: 341
+SampleMin: 335SampleMax: 341
+Volts is: 0.03
+
+Next set of samples
+Sample is: 325
+Sample is: 344
+Sample is: 339
+SampleMin: 325SampleMax: 344
+Volts is: 0.09
+
+Next set of samples
+Sample is: 347
+Sample is: 342
+SampleMin: 342SampleMax: 347
+Volts is: 0.02
+
+Next set of samples
+Sample is: 324
+Sample is: 340
+SampleMin: 324SampleMax: 340
+Volts is: 0.08
+
+Next set of samples
+Sample is: 343
+Sample is: 316
+Sample is: 339
+SampleMin: 316SampleMax: 343
+Volts is: 0.13
+
+Next set of samples
+Sample is: 320
+Sample is: 326
+SampleMin: 320SampleMax: 326
+Volts is: 0.03
+
+Next set of samples
+Sample is: 349
+Sample is: 322
+SampleMin: 322SampleMax: 349
+Volts is: 0.13
+
+Next set of samples
+Sample is: 329
+Sample is: 348
+Sample is: 329
+SampleMin: 329SampleMax: 348
+Volts is: 0.09
+
+Next set of samples
+Sample is: 349
+Sample is: 318
+SampleMin: 318SampleMax: 349
+Volts is: 0.15
+
+Next set of samples
+Sample is: 323
+Sample is: 336
+SampleMin: 323SampleMax: 336
+Volts is: 0.06
+
+Next set of samples
+Sample is: 340
+Sample is: 335
+Sample is: 342
+SampleMin: 335SampleMax: 342
+Volts is: 0.03
+
+Next set of samples
+Sample is: 320
+Sample is: 342
+SampleMin: 320SampleMax: 342
+Volts is: 0.11
+
+Next set of samples
+Sample is: 343
+Sample is: 324
+SampleMin: 324SampleMax: 343
+Volts is: 0.09
+
+Next set of samples
+Sample is: 335
+Sample is: 339
+Sample is: 319
+SampleMin: 319SampleMax: 339
+Volts is: 0.10
+
+Next set of samples
+Sample is: 345
+Sample is: 317
+SampleMin: 317SampleMax: 345
+Volts is: 0.14
+
+Next set of samples
+Sample is: 337
+Sample is: 348
+SampleMin: 337SampleMax: 348
+Volts is: 0.05
+
+Next set of samples
+Sample is: 326
+Sample is: 333
+Sample is: 341
+SampleMin: 326SampleMax: 341
+Volts is: 0.07
+
+Next set of samples
+Sample is: 330
+Sample is: 347
+SampleMin: 330SampleMax: 347
+Volts is: 0.08
+
+Next set of samples
+Sample is: 332
+Sample is: 331
+SampleMin: 331SampleMax: 332
+Volts is: 0.00
+
+Next set of samples
+Sample is: 346
+Sample is: 323
+Sample is: 330
+SampleMin: 323SampleMax: 346
+Volts is: 0.11
+
+Next set of samples
+Sample is: 329
+Sample is: 334
+SampleMin: 329SampleMax: 334
+Volts is: 0.02
+
+Next set of samples
+Sample is: 346
+Sample is: 332
+SampleMin: 332SampleMax: 346
+Volts is: 0.07
+
+Next set of samples
+Sample is: 324
+Sample is: 346
+Sample is: 335
+SampleMin: 324SampleMax: 346
+Volts is: 0.11
+
+Next set of samples
+Sample is: 345
+Sample is: 327
+SampleMin: 327SampleMax: 345
+Volts is: 0.09
+
+Next set of samples
+Sample is: 345
+Sample is: 373
+SampleMin: 345SampleMax: 373
+Volts is: 0.14
