@@ -18,6 +18,3 @@ What works:
 - Sound detect (somewhat)
 - movement behavoir
 - PID feedback
-
-What doesn't work:
-- High pitch detection (Lack of knowledge on how to 'properly' ue MAX4466. Didn't have parts for original plan. )
