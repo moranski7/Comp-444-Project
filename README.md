@@ -10,7 +10,7 @@ FIRST HALF
 SECOND HALF
 1x Arduino/Genuino Uno 1x Switch 2x LED 3x 330 Ohm resistor 1x LM 386 Sound Sensor 1x Adafruit Electret Microphone Amplifier - MAX4466 with Adjustable Gain 12x Jumper Wires 3x Male/Female Jumper Wires 4x Jumper Wires
 
-The set up can be found in <a url="/Michael Oransi 2743708 Project.pdf">Michael Oransi 2743708 Project.pdf</a>
+The set up can be found in <a url="https://github.com/moranski7/Comp-444-Project/blob/master/Michael%20Oransi%202743708%20Project.pdf">Michael Oransi 2743708 Project.pdf</a>
 
 The project make use of I2C_Anything library found at https://github.com/nickgammon/I2C_Anything.
 
