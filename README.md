@@ -1,7 +1,8 @@
-# Comp-444-Project
+# <h1>Comp-444-Project</h1>
 
-My project for Embedded/Robotic Programming (COMP 444) from Athabasca University.
-This is my first project that I designed, started and completed by myself.
+My project for Embedded/Robotic Programming (COMP 444) from Athabasca University. Students were required to design a completely autonmous robot that takes in at least one input from the environment and performed at least one physical function. Additionally students were required to only use the Arduino as their primary microcontroller. What the robot did and how it completed the task was left completely to the student.
+
+My idea was to create a robot to help me with my hearing disability. As a result of my hearing disability I am unable to hear any high pitch sounds without some form of assistence. The robot was to detect high pitch noise, locate the origin of the noise and then alert me when found. 
 
 The hardware for the project:
 FIRST HALF
@@ -15,6 +16,6 @@ The set up can be found in <a href="https://github.com/moranski7/Comp-444-Projec
 The project make use of I2C_Anything library found at https://github.com/nickgammon/I2C_Anything.
 
 What works:
-- Sound detect (somewhat)
+- Sound detect
 - movement behavoir
 - PID feedback
